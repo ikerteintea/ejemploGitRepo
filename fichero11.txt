@@ -1,0 +1,2 @@
+Este es el fichero de prueba 1
+Linea nueva en el pirmer fichero
