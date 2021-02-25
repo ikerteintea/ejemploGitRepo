@@ -1,1 +1,2 @@
 Este es el fichero de prueba 2
+Este es un cambio al fichero 2
